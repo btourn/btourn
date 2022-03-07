@@ -1,5 +1,5 @@
-- 👋 Hi, I am Benjamin (@btourn) from Argentina. I am a Mechanical Engineer and currently a PhD student in Computational Mechanics, where I am working on inverse problems applied to Heat Transfer problems
-- 👀 I am interested in computer sciences, programming, maths, physics and engineering, web Desing, IoT, among other interests.
-- 🌱 I am currently learning the basics of Data Science and Machine Learning
-- 💞️ I am looking to collaborate on projects related to Data Science 
+- 👋 Hi, I am Benjamin (@btourn) from Argentina. I am a Mechanical Engineer, and also I have recently achieved a Ph. D. in Computational Mechanics, where I have worked on inverse problems applied to Heat Transfer problems
+- 👀 I am interested in computer sciences, programming, maths, physics and engineering, web desing, IoT, among other interests.
+- 🌱 I am currently learning the basics of Data Science and Machine Learning.
+- 💞️ I am looking to collaborate on projects related to the fields mentioned above.
 - 📫 How to reach me: personal e-mail: b.tourn.86@gmail.com
